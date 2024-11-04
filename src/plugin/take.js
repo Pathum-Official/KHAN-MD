@@ -10,14 +10,13 @@ const handleTakeCommand = async (m, gss) => {
 
   // Split text into packname and author
   const args = text.split('|');
-  const [providedPackname, providedAuthor] = args;
+  const [providedPackname] = args;
 
-  if (!providedPackname || !providedAuthor) {
-    return m.reply('Usage: /take pkgname|author');
+  if (!providedPackname) {
+    return m.reply('Usage: /take KHAN-MD');
   }
 
   global.packname = providedPackname;
-  global.author = providedAuthor;
 
   const quoted = m.quoted || {};
 
