@@ -84,10 +84,6 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use
     <br>
 <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
 
-3. Create [DATABASE_URL](https://app.koyeb.com/database-services/new) and copy it
-
-4. Get [Koyeb API_KEY](https://app.koyeb.com/settings/api) and copy it
-
 2. **Deploy On Koyeb:**
   
    Now its ready to deploy on koyeb.
