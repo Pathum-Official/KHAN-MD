@@ -50,12 +50,12 @@ Click on Paring Code To Get Seasion ID To Start The KHAN-MD If Getting Error Use
 
  > Get Pair Code (Server 1)
 
-<a href='https://immense-ilka-pairxp-85b48d33.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://youthful-manatee-sectorxd-25f16823.koyeb.app/code' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-green?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 <br>
 
 > Get Pair Code (Server 2)
 
-<a href='https://central-evania-ultramd-707742b1.koyeb.app/' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
+<a href='https://smart-jacquelin-shon-6c7d0dbb.koyeb.app' target="_blank"><img alt='Pairing Code' src='https://img.shields.io/badge/Get Paring Code-blue?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
 ## **DEPLOY TO HEROKU**
 
