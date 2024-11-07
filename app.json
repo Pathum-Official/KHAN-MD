@@ -9,12 +9,12 @@
       "SESSION_ID": {
       "description": "your session id",
       "required": true,
-      "value": ""
+      "value": "Khan~Z4kwQfi9"
     },
     "MODE": {
       "description": "mode public or self",
       "required": true,
-      "value": "public"
+      "value": "private"
     },
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
